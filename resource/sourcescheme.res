@@ -137,12 +137,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"	//"Verdana"
-				"tall"		"18"		//14 25
-				"weight"	"500"		//900
+				"name"		"Verdana"		//"TF2 Build"	"Verdana"
+				"tall"		"14"			//18			14 25
+				"weight"	"900"			//500			900
 				"range"		"0x0000 0x017F"
 				"yres"		"768 1023"
-				"antialias"	"1"
+				"antialias"	"0"				//1				0
 				"outline"	"1"
 			}
 		}

@@ -4,10 +4,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ItemQuickSwitchPanel"
-		"xpos"			"c225"		//c-125
-		"ypos"			"181"		//280
-		"wide"			"120"		//275
-		"tall"			"118"		//160
+		"xpos"			"c-422"		//c-125	c225
+		"ypos"			"5"		//280	181
+		"wide"			"120"		//275	120
+		"tall"			"118"		//160	160
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
