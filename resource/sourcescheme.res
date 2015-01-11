@@ -140,10 +140,11 @@ Scheme
 				"name"		"Verdana"		//"TF2 Build"	"Verdana"
 				"tall"		"14"			//18			14 25
 				"weight"	"900"			//500			900
-				"range"		"0x0000 0x017F"
-				"yres"		"768 1023"
+				"range"		"0x0000 0x017F"	//
+				"yres"		"768 1023"		//
 				"antialias"	"0"				//1				0
-				"outline"	"1"
+				"outline"	"1"				//
+				"shadow"	"0"				//				
 			}
 		}
 
