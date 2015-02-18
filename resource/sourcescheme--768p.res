@@ -146,26 +146,6 @@ Scheme
 				"outline"	"1"				//
 				"shadow"	"0"				//				
 			}
-			"2"
-			{
-				"name"		"Verdana"
-				"tall"		"13"
-				"weight"	"900"
-				"range"		"0x0000 0x017F"
-				"yres"		"600 767"
-				"antialias"	"0"
-				"outline"	"1"
-			}
-			"3"
-			{
-				"name"		"Verdana"
-				"tall"		"20"
-				"weight"	"900"
-				"range"		"0x0000 0x017F"
-				"yres"		"1024 1199"
-				"antialias"	"0"
-				"outline"	"1"
-			}
 		}
 
 		"MainMenuFont"
