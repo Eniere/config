@@ -889,6 +889,13 @@
 
 }
 
+"wasabiball"
+{
+	"base"			"rubber"
+	"elasticity" 	"1"
+	"friction" 		"1"
+}
+ 
 // hollow rubber tire
 
 "rubbertire"
