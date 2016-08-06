@@ -1,5 +1,5 @@
 Eniere's config for Team Fortress 2
-August 2, 2016
+August 6, 2016
 
 Use it at your own risk.
 
